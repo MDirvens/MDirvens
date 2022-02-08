@@ -2,8 +2,7 @@
 
 I am a happy software engineer who wants to fulfill the feeling of having achieved everything possible. I have always wanted to increase my knowledge and improve my skills. My working environment is C#. I continue to develop myself and keep moving forward. 
 
-:hammer_and_wrench: Skills :
-<img src=" https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg alt ="C# logo" width="50" hight="50" /
+
 <!--
 **MDirvens/MDirvens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
