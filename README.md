@@ -1,5 +1,6 @@
-### Good to see you :raised_hand_with_fingers_splayed:,I am Māris Dirvēns.
+### Good to see you :raised_hand_with_fingers_splayed:, I am Māris Dirvēns
 
+I am a happy software engineer who wants to fulfill the feeling of having achieved everything possible. I have always wanted to increase my knowledge. My working environment is C#. I continue to develop myself and keep moving forward. 
 <!--
 **MDirvens/MDirvens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
