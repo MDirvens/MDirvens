@@ -11,6 +11,9 @@ I am a happy software engineer who wants to fulfill the feeling of having achiev
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" ang="TypeScript logo" width="40" length="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" ang="NodeJs logo" width="40" length="40" />
 
+<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" ang="NodeJs logo" width="20" length="20" /> You can connect with me on [Linkedin](www.linkedin.com/in/māris-dirvēns).   
+📫 Send some [email](maris.dirvens@Gmail.com).
+
 
 
 <!--
