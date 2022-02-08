@@ -13,7 +13,7 @@ I am a happy software engineer who wants to fulfill the feeling of having achiev
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" ang="NodeJs logo" width="40" length="40" />
 
 #
-<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" ang="Linkedin logo" width="20" length="20" /> You can connect with me on [Linkedin](www.linkedin.com/in/māris-dirvēns).   
+<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" ang="Linkedin logo" width="20" length="20" /> You can connect with me on [Linkedin](https://www.linkedin.com/in/māris-dirvēns).   
 <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" ang="Gmail logo" width="20" length="20" /> Send some [email](maris.dirvens@Gmail.com).
 
 #
