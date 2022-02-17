@@ -10,7 +10,7 @@ I am a happy software engineer who wants to fulfill the feeling of having achiev
 <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" ang="SQL logo" width="30" length="30" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/HTTP_logo.svg" ang="HTTP logo" width="60" length="60" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" ang="HTLM5 logo" width="40" length="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" ang="CSS logo" width="40" length="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" ang="CSS logo" width="40" length="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" ang="AngularJS logo" width="40" length="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" ang="TypeScript logo" width="40" length="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" ang="NodeJS logo" width="40" length="40" />
