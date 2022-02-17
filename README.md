@@ -22,10 +22,11 @@ I am a happy software engineer who wants to fulfill the feeling of having achiev
 
 #
 Check out my finished project:  
-:motor_scooter: [Scooter rental service](https://github.com/MDirvens/assignments/tree/main/scooterRentalService/scooterRental).  
+:motor_scooter: [Scooter rental service.](https://github.com/MDirvens/assignments/tree/main/scooterRentalService/scooterRental)   
+:shopping_cart: [SQL shopify.](https://github.com/MDirvens/sql/tree/main/sql-shopify)
 
 I'm working on  
-:airplane: Flight Planner.
+:airplane: [Flight Planner.](https://github.com/MDirvens/flight_planner)
 
 
 
