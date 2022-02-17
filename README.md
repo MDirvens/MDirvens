@@ -21,7 +21,7 @@ I am a happy software engineer who wants to fulfill the feeling of having achiev
 <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" ang="Gmail logo" width="20" length="20" /> Send some [email](maris.dirvens@Gmail.com).
 
 #
-Check out my finished project:  
+Check out my finished projects:  
 :motor_scooter: [Scooter rental service.](https://github.com/MDirvens/assignments/tree/main/scooterRentalService/scooterRental)   
 :shopping_cart: [SQL shopify.](https://github.com/MDirvens/sql/tree/main/sql-shopify)
 
