@@ -27,7 +27,8 @@ Check out my finished projects:
 
 I'm working on  
 :airplane: [Flight Planner.](https://github.com/MDirvens/flight_planner)    
-<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/eu.svg" ang="EU flag" width="20" length="20" /> [European Union Countries.](https://github.com/MDirvens/EuropeanUnionCountries)
+[<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/eu.svg" ang="EU flag" width="20" length="20" />](https://european-union.europa.eu/index_en) 
+[European Union Countries.](https://github.com/MDirvens/EuropeanUnionCountries)
 
 
 
