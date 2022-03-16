@@ -26,7 +26,8 @@ Check out my finished projects:
 :shopping_cart: [SQL shopify.](https://github.com/MDirvens/sql/tree/main/sql-shopify)
 
 I'm working on  
-:airplane: [Flight Planner.](https://github.com/MDirvens/flight_planner)
+:airplane: [Flight Planner.](https://github.com/MDirvens/flight_planner)    
+<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/eu.svg" ang="EU flag" width="20" length="20" /> [European Union Countries.](https://github.com/MDirvens/EuropeanUnionCountries)
 
 
 
