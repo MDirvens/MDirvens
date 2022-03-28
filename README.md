@@ -23,11 +23,11 @@ I am a happy software engineer who wants to fulfill the feeling of having achiev
 
 #
 Check out my finished projects:  
+:airplane: [Flight Planner.](https://github.com/MDirvens/flight_planner)  
 :motor_scooter: [Scooter rental service.](https://github.com/MDirvens/assignments/tree/main/scooterRentalService/scooterRental)   
 :shopping_cart: [SQL shopify.](https://github.com/MDirvens/sql/tree/main/sql-shopify)
 
-I'm working on  
-:airplane: [Flight Planner.](https://github.com/MDirvens/flight_planner)    
+I'm working on    
 [<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/eu.svg" ang="EU flag" width="20" length="20" />](https://european-union.europa.eu/index_en) 
 [European Union Countries.](https://github.com/MDirvens/EuropeanUnionCountries)
 
